@@ -4,8 +4,9 @@
 
 ![Botão de Versão](https://img.shields.io/badge/Version-1.0-blue)   ![Python Version](https://img.shields.io/badge/Python-3.9-blue)  ![PyGame Version](https://img.shields.io/badge/PyGame-1.9-green)
 
-![Tela do jogo]()
+![Tela do jogo](https://github.com/joao-lucasilva/Snake-Python/blob/master/assets/scrennshot.JPG)
 <h4 align="center"> 🚧 🚀 Em construção... 🚧 </h4>
+
 Tabela de conteúdos
 =================
    * [Sobre](#sobre)
@@ -53,8 +54,8 @@ Instale o PyGame:
 
 ## Tecnologias
 Neste projeto foi utilizado:
-	* [Python3](https://docs.python.org/3/);
-	* [PyGame](https://www.pygame.org/docs/) 1.9;
+	- [Python3](https://docs.python.org/3/);
+	- [PyGame](https://www.pygame.org/docs/) 1.9;
 	
 
 ## Autor
