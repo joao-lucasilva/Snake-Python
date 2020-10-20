@@ -55,9 +55,9 @@ Instale o PyGame:
 ## Tecnologias
 Neste projeto foi utilizado:
 
-	- [Python3](https://docs.python.org/3/);
+	- ![Python3](https://docs.python.org/3/);
 
-	- [PyGame](https://www.pygame.org/docs/) 1.9;
+	- ![PyGame](https://www.pygame.org/docs/) 1.9;
 	
 
 ## Autor
