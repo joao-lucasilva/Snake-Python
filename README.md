@@ -2,7 +2,7 @@
 # Snake em Python
 
 
-![Botão de Versão](https://img.shields.io/badge/Version-1.0-blue)   ![Python Version](https://img.shields.io/badge/Python-3.9-blue)  ![PyGame Version](https://img.shields.io/badge/PyGame-1.9-green)
+![Botão de Versão](https://img.shields.io/badge/Version-1.1-blue)   ![Python Version](https://img.shields.io/badge/Python-3.9-blue)  ![PyGame Version](https://img.shields.io/badge/PyGame-1.9-green)
 
 ![Tela do jogo](https://github.com/joao-lucasilva/Snake-Python/blob/master/assets/scrennshot.JPG)
 <h4 align="center"> 🚧 🚀 Em construção... 🚧 </h4>
@@ -29,7 +29,7 @@ Ao executar o arquivo, o jogo abrirá em uma janela. Utilize as setas do teclado
 - [X] Movimentação da Cobra;
 - [X] Cobra comendo maçã;
 - [ ] Colisão com canto da tela;
-- [ ] Colisão da cobra com seu corpo;
+- [X] Colisão da cobra com seu corpo;
 - [ ] Sistema de pontuação;
 - [ ] Game Over. 
 ## Como Usar
@@ -63,4 +63,4 @@ Neste projeto foi utilizado:
 ## Autor
 Desenvolvido por João Lucas da Silva.
 Entre em contato comigo:
- [![Linkedin Badge](https://img.shields.io/badge/-JoaoLucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaolucassilva-812819165/)]([https://www.linkedin.com/in/joaolucassilva-812819165/](https://www.linkedin.com/in/joaolucassilva-812819165/)) | [![Gmail Badge](https://img.shields.io/badge/-joao.lsilva1198@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.lsilva1198@gmail.com)](mailto:joao.lsilva1198@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-JoaoLucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaolucassilva-812819165/)](https://www.linkedin.com/in/joaolucassilva-812819165/) | [![Gmail Badge](https://img.shields.io/badge/-joao.lsilva1198@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.lsilva1198@gmail.com)](mailto:joao.lsilva1198@gmail.com)
