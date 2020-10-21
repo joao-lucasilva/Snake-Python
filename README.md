@@ -28,7 +28,7 @@ Ao executar o arquivo, o jogo abrirá em uma janela. Utilize as setas do teclado
 - [X] Maçã em posição aleatória;
 - [X] Movimentação da Cobra;
 - [X] Cobra comendo maçã;
-- [ ] Colisão com canto da tela;
+- [X] Colisão com canto da tela;
 - [X] Colisão da cobra com seu corpo;
 - [ ] Sistema de pontuação;
 - [ ] Game Over. 
