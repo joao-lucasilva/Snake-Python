@@ -2,10 +2,9 @@
 # Snake em Python
 
 
-![Botão de Versão](https://img.shields.io/badge/Version-1.1-blue)   ![Python Version](https://img.shields.io/badge/Python-3.9-blue)  ![PyGame Version](https://img.shields.io/badge/PyGame-1.9-green)
+![Botão de Versão](https://img.shields.io/badge/Version-2.0-blue)   ![Python Version](https://img.shields.io/badge/Python-3.9-blue)  ![PyGame Version](https://img.shields.io/badge/PyGame-1.9-green)
 
 ![Tela do jogo](https://github.com/joao-lucasilva/Snake-Python/blob/master/assets/scrennshot.JPG)
-<h4 align="center"> 🚧 🚀 Em construção... 🚧 </h4>
 
 Tabela de conteúdos
 =================
@@ -30,8 +29,8 @@ Ao executar o arquivo, o jogo abrirá em uma janela. Utilize as setas do teclado
 - [X] Cobra comendo maçã;
 - [X] Colisão com canto da tela;
 - [X] Colisão da cobra com seu corpo;
-- [ ] Sistema de pontuação;
-- [ ] Game Over. 
+- [X] Sistema de pontuação;
+- [X] Game Over. 
 ## Como Usar
 Faça o download do zip ou clone este repositório:
 > git clone https://github.com/joao-lucasilva/Snake-Python
@@ -55,9 +54,9 @@ Instale o PyGame:
 ## Tecnologias
 Neste projeto foi utilizado:
 
-- ![Python3](https://docs.python.org/3/);
+- [Python3](https://docs.python.org/3/);
 
-- ![PyGame](https://www.pygame.org/docs/) 1.9;
+- [PyGame](https://www.pygame.org/docs/) 1.9;
 	
 
 ## Autor
