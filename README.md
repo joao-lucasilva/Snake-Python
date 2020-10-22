@@ -51,6 +51,8 @@ Instale o PyGame:
 --ou--
 >pip install -r requirements
 
+Execute o jogo com:
+>python snake.py
 ## Tecnologias
 Neste projeto foi utilizado:
 
