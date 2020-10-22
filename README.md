@@ -10,7 +10,7 @@ Tabela de conteúdos
 =================
    * [Sobre](#sobre)
    * [Como funciona](#como-funciona)
-   * [Features](#feat)
+   * [Features](#features)
    * [Como usar](#como-usar)
    * [Tecnologias](#tecnologias)
    * [Autores](#autores)
@@ -21,7 +21,7 @@ Implementação do jogo da cobrinha (Snake) feito com Python e PyGame em um ambi
 Utilizando uma tupla cria-se a cobra (snake) na tela, o objetivo e cober as maças e ganhar pontos sem colidir com os cantos da tela ou com o próprio corpo da cobra.
 ## Como Funciona
 Ao executar o arquivo, o jogo abrirá em uma janela. Utilize as setas do teclado para controlar a cobra.
-
+A cada maçã que a cobra comer a velocidade aumentará para elevar a dificuldade do jogo.
 ## Features
 - [X] Tela do jogo;
 - [X] Maçã em posição aleatória;
